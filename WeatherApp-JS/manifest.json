@@ -1,0 +1,16 @@
+{
+    "manifest_version" : 2,
+    "name" : "Weather",
+    "version" : "1.0",
+    "description" : "Weather Anywhere",
+    "icons" : {
+        "128" : "img/weather128.png",
+        "48" : "img/weather48.png",
+        "16" : "img/weather16.png"
+    },
+    "browser_action" : {
+        "default_icon" : "img/WeatherOrg.png",
+        "default_popup" : "index.html"
+    },
+    "permissions": ["activeTab"]
+}
