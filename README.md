@@ -1,2 +1,4 @@
 # Weather-HtmlCssJavaScript
-Weather Project displays the weather information of Cities
+Weather Project displays the weather information of Cities.
+Background will change based on Temperature.
+Video https://github.com/ansarisadaffatima/Weather-HtmlCssJavaScript/blob/main/WeatherHTMLCSSJavaScript.mp4 demonstrate the working of it.
